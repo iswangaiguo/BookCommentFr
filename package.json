@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "array-includes": "^3.0.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "better-scroll": "^1.13.2",
     "define-properties": "^1.1.3",
     "object-keys": "^1.0.12",
